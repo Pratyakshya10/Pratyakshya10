@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════  HEADER  ═══════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pratyakshya%20Mishra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pratyakshya%20Mishra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Open%20Source%20Contributor&descSize=18&descAlignY=58" width="100%"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/pratyakshya-mishra-12a80a39a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -78,16 +78,21 @@ Monte Carlo simulation of the Gambler's Ruin problem with theoretical validation
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pratyakshya10&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratyakshya10&hide_border=true&theme=tokyonight" />
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratyakshya10&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyakshya10&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+  <img height="192" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pratyakshya10&theme=tokyonight" />
+  <img height="192" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pratyakshya10&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pratyakshya10&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+  <img height="192" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratyakshya10&theme=tokyonight" />
+  <img height="192" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pratyakshya10&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://streak-stats.demolab.com/?user=Pratyakshya10&hide_border=true&theme=tokyonight" />
 </p>
 
 <!-- ═══════════════════════════════  CONTRIBUTION SNAKE  ═══════════════════════════════ -->
