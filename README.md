@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════  HEADER  ═══════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pratyakshya%20Mishra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=20Full-Stack%20Developer%20&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pratyakshya%20Mishra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20&descSize=18&descAlignY=58" width="100%"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/pratyakshya-mishra-12a80a39a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
