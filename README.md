@@ -10,16 +10,6 @@
 <!-- ═══════════════════════════════  ABOUT  ═══════════════════════════════ -->
 ## 👋 About Me
 
-```typescript
-const pratyakshya = {
-  role: "AI/ML Engineer & Full-Stack Developer",
-  focus: ["AI Applications", "Data Governance", "Environmental Tech", "Simulations"],
-  languages: ["TypeScript", "JavaScript", "C++", "Python"],
-  learning: ["LLMs", "System Design", "Cloud"],
-  motto: "Build things that matter, one commit at a time.",
-};
-```
-
 - 🔭 Building **AI-powered products** — from data-governance copilots to marine-monitoring platforms
 - 🌱 Currently deepening my skills in **machine learning & scalable systems**
 - 💡 I love turning messy real-world problems into clean, useful software
@@ -31,48 +21,6 @@ const pratyakshya = {
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,cpp,python,react,nextjs,nodejs,html,css,tailwind,mongodb,postgres,git,github,vscode,figma&perline=8" />
 </p>
-
-<!-- ═══════════════════════════════  PROJECTS  ═══════════════════════════════ -->
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ MetaLens
-AI-powered data-governance copilot — upload Excel, auto-detect PII, score data quality, and generate compliance reports via OpenMetadata.
-<br/><br/>
-`AI` `Data Governance` `HTML`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌊 OceanLens
-AI-powered marine-monitoring platform that analyzes ocean data through intelligent technology.
-<br/><br/>
-`AI` `Environmental` `JavaScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏋️ FitForge
-React-based fitness app with structured workout plans and locked daily training cards for 30-day tracking.
-<br/><br/>
-`React` `JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎲 Gambler's Ruin Simulation
-Monte Carlo simulation of the Gambler's Ruin problem with theoretical validation and visualization.
-<br/><br/>
-`C++` `Simulation`
-
-</td>
-</tr>
-</table>
 
 <!-- ═══════════════════════════════  GITHUB STATS  ═══════════════════════════════ -->
 ## 📊 GitHub Stats
