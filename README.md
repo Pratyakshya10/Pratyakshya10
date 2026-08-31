@@ -30,13 +30,12 @@
 </p>
 
 <p align="center">
-  <img height="192" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pratyakshya10&theme=tokyonight" />
-  <img height="192" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pratyakshya10&theme=tokyonight&utcOffset=5.5" />
+  <img height="192" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratyakshya10&theme=tokyonight" />
+  <img height="192" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pratyakshya10&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="192" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratyakshya10&theme=tokyonight" />
-  <img height="192" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pratyakshya10&theme=tokyonight" />
+  <img height="192" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pratyakshya10&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 <p align="center">
