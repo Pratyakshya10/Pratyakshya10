@@ -44,10 +44,6 @@
   <img height="192" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pratyakshya10&theme=tokyonight&utcOffset=5.5" />
 </p>
 
-<p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com/?user=Pratyakshya10&hide_border=true&theme=tokyonight" />
-</p>
-
 <!-- ═══════════════════════════════  CONTRIBUTION SNAKE  ═══════════════════════════════ -->
 ## 🐍 Contribution Graph
 
