@@ -35,15 +35,6 @@
   <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratyakshya10&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img height="192" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratyakshya10&theme=tokyonight" />
-  <img height="192" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pratyakshya10&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="192" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pratyakshya10&theme=tokyonight&utcOffset=5.5" />
-</p>
-
 <!-- ═══════════════════════════════  CONTRIBUTION SNAKE  ═══════════════════════════════ -->
 ## 🐍 Contribution Graph
 
@@ -55,7 +46,7 @@
 ## 🧊 My Contributions in 3D
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pratyakshya10/Pratyakshya10/main/profile-3d-contrib/profile-season-animate.svg" alt="3D animated contribution calendar" />
+  <img src="https://raw.githubusercontent.com/Pratyakshya10/Pratyakshya10/main/profile-3d-contrib/profile-falling.svg" alt="3D contribution calendar — contributions falling from above" />
 </p>
 
 <!-- ═══════════════════════════════  FOOTER  ═══════════════════════════════ -->

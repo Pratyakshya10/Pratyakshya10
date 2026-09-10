@@ -23,6 +23,9 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Add "fall from above" animation
+        run: python .github/scripts/fall.py profile-3d-contrib/profile-night-green.svg profile-3d-contrib/profile-falling.svg
+
       - name: Commit & push generated SVGs
         run: |
           git config user.name  "github-actions[bot]"
