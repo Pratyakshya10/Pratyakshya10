@@ -59,7 +59,7 @@
 ## 🧊 My Contributions in 3D
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pratyakshya10/Pratyakshya10/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
+  <img src="https://raw.githubusercontent.com/Pratyakshya10/Pratyakshya10/main/profile-3d-contrib/profile-season-animate.svg" alt="3D animated contribution calendar" />
 </p>
 
 <!-- ═══════════════════════════════  FOOTER  ═══════════════════════════════ -->
