@@ -1,9 +1,9 @@
 <!-- ═══════════════════════════════  HEADER  ═══════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pratyakshya%20Mishra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20Full-Stack%20Developer%20%7C%20Open%20Source%20Contributor&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pratyakshya%20Mishra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20Full-Stack%20Developer descSize=18&descAlignY=58" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/Pratyakshya10">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=A277FF&center=true&vCenter=true&width=650&height=50&lines=AI%2FML+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%E2%9A%A1;Open+Source+Contributor+%F0%9F%8C%8D;Turning+ideas+into+products+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=A277FF&center=true&vCenter=true&width=650&height=50&lines=AI%2FML+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%E2%9A%A1;;Turning+ideas+into+products+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
