@@ -35,13 +35,6 @@
   <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratyakshya10&theme=tokyonight" />
 </p>
 
-<!-- ═══════════════════════════════  CONTRIBUTION SNAKE  ═══════════════════════════════ -->
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pratyakshya10/Pratyakshya10/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
 <!-- ═══════════════════════════════  3D CONTRIB  ═══════════════════════════════ -->
 ## 🧊 My Contributions in 3D
 
