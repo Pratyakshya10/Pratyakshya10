@@ -32,7 +32,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratyakshya10&theme=tokyonight" />
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratyakshya10&theme=tokyonight&v=20261018" />
 </p>
 
 <!-- ═══════════════════════════════  3D CONTRIB  ═══════════════════════════════ -->
